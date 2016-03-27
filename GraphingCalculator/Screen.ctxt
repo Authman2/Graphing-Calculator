@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=backColor\ c
+comment0.target=Screen(java.awt.Color,\ CalcPanel)
+comment1.params=c
+comment1.target=void\ setColor(java.awt.Color)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=g
+comment3.target=void\ redrawAxes(java.awt.Graphics)
+comment4.params=g
+comment4.target=void\ drawCurve(java.awt.Graphics)
+comment4.text=\ Draws\ the\ actual\ graph\n
+comment5.params=mina\ maxa\ minya\ maxya
+comment5.target=void\ findPointsToPlot(double,\ double,\ double,\ double)
+comment5.text=This\ is\ responsible\ for\ finding\ all\ the\ x-values\ and\ y-values\ that\ need\ to\ be\ plotted,\ then\ adds\ them\ \n\ to\ the\ respective\ arrays.\n
+comment6.params=x
+comment6.target=double\ fOf(double)
+comment7.params=x
+comment7.target=double\ gOf(double)
+comment8.params=
+comment8.target=void\ intersectionsX()
+numComments=9
